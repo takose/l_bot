@@ -12,5 +12,5 @@ then edit `.env` file
 ### ngrok
 ```
 brew install ngrok
-ngrok start 
+ngrok start 4567
 ```
